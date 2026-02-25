@@ -1,35 +1,8 @@
-# 🤖 Automated Financial Market Trading System
+# 🤖 Algorithmic Trading Simulator
 
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com/ThePredictiveDev/Automated-Financial-Market-Trading-System)
-[![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)](CONTRIBUTING.md)
-[![Issues](https://img.shields.io/badge/Issues-Open-red.svg)](https://github.com/ThePredictiveDev/Automated-Financial-Market-Trading-System/issues)
 
 > **A comprehensive, production-ready algorithmic trading system with real-time market data, multiple trading strategies, risk management, and advanced backtesting capabilities.**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Automated%20Trading%20System&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</div>
-
-## 📋 Table of Contents
-
-- [🚀 Features](#-features)
-- [🎯 What You Can Do](#-what-you-can-do)
-- [🏗️ Architecture](#️-architecture)
-- [📦 Installation](#-installation)
-- [⚡ Quick Start](#-quick-start)
-- [🔧 Usage Modes](#-usage-modes)
-- [🧭 Interactive CLI (No-Flags Guided Mode)](#-interactive-cli-no-flags-guided-mode)
-- [📊 Trading Strategies](#-trading-strategies)
-- [🛡️ Risk Management](#️-risk-management)
-- [📈 Backtesting](#-backtesting)
-- [🔌 API Integration](#-api-integration)
-- [📝 Configuration](#-configuration)
-- [📊 Performance Analytics](#-performance-analytics)
-- [🖥️ Live Order Control (Split Terminal)](#️-live-order-control-split-terminal)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ## 🚀 Features
 
@@ -1142,20 +1115,6 @@ isort trading_simulator/
 - **Tests**: Maintain 90%+ test coverage
 - **Documentation**: Update documentation for all new features
 
-### Pull Request Process
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Add tests for new functionality
-5. Ensure all tests pass
-6. Update documentation
-7. Commit your changes (`git commit -m 'Add amazing feature'`)
-8. Push to the branch (`git push origin feature/amazing-feature`)
-9. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License © 2025 Devansh Garg - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -1168,26 +1127,4 @@ This project is licensed under the MIT License © 2025 Devansh Garg - see the [L
 - **Redis** for caching and event streaming
 - **Apache Kafka** for real-time event processing
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/ThePredictiveDev/Automated-Financial-Market-Trading-System/issues)
-
----
-
-<div align="center">
-  <p>Made with ❤️ by the Trading System Team</p>
-  <p>
-    <a href="https://github.com/ThePredictiveDev/Automated-Financial-Market-Trading-System/stargazers">
-      <img src="https://img.shields.io/github/stars/ThePredictiveDev/Automated-Financial-Market-Trading-System" alt="Stars">
-    </a>
-    <a href="https://github.com/ThePredictiveDev/Automated-Financial-Market-Trading-System/network">
-      <img src="https://img.shields.io/github/forks/ThePredictiveDev/Automated-Financial-Market-Trading-System" alt="Forks">
-    </a>
-    <a href="https://github.com/ThePredictiveDev/Automated-Financial-Market-Trading-System/issues">
-      <img src="https://img.shields.io/github/issues/ThePredictiveDev/Automated-Financial-Market-Trading-System" alt="Issues">
-    </a>
-    <a href="https://github.com/ThePredictiveDev/Automated-Financial-Market-Trading-System/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/ThePredictiveDev/Automated-Financial-Market-Trading-System" alt="License">
-    </a>
-  </p>
-</div>
