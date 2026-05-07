@@ -10,7 +10,6 @@
 - **🔧 High-Performance Matching Engine**: Real-time order matching with price-time priority
 - **📊 Order Book Management**: Full limit order book with bid/ask depth tracking
 - **⚡ Low-Latency Execution**: Sub-millisecond order processing with configurable latency simulation
-- **🔄 FIX Protocol Support**: Industry-standard FIX 4.2 protocol integration via simplefix
 - **📈 Real-time Market Data**: Live price feeds via yfinance with automatic fallback mechanisms
 
 ### Algorithmic Trading Strategies
